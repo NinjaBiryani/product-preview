@@ -2,8 +2,6 @@
 
 ![product-preview-preview1](https://github.com/user-attachments/assets/a37cbd26-be95-4fe9-be6d-0cbd1cc29223)
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
